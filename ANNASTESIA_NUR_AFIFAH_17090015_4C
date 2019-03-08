@@ -1,0 +1,14 @@
+package halo;
+
+/**
+ *
+ * @author Annastesia nur afifah
+ */
+public class Annastesianurafifah17090015_4C {
+    public static void main (String[] args){
+        System.out.println("Halo nama saya Annastesia nur afifah");
+        System.out.println("Prodi informatika");
+        System.out.println("Kelas 4C");
+        System.out.println("NIM 17090015");
+    }
+}
